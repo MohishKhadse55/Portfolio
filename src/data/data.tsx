@@ -281,9 +281,9 @@ export const education: TimelineItem[] = [
     content: <p>Completed Diploma with 95% aggregate. Explored technology like IoT, Embedded System, VLSI </p>,
   },{
     date: 'March 2018',
-    location: 'Orino English Medium School',
+    location: 'Orion English Medium School',
     title: 'SSC',
-    content: <p>Complited my SSC securing 92.41% </p>,
+    content: <p>Completed my SSC securing 92.41% </p>,
   },
 ];
 
@@ -349,7 +349,7 @@ export const testimonial: TestimonialSection = {
 
 export const contact: ContactSection = {
   headerText: 'Get in touch.',
-  description: 'May be we can have Coffee some time',
+  description: '',
   items: [
     {
       type: ContactType.Email,
