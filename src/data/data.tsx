@@ -307,7 +307,7 @@ export const experience: TimelineItem[] = [
       <p>
         The sector cites the need for a system in electroplating plants that mandates monitoring of variables such
         liquid PH value, methane and carbon monoxide concentration of electroplating bath containers as the problem.
-        Technology used were Embedded C, RF Transmisson, AVR Microcontroller Interfacing
+        Technology used were Embedded C, RF Transmission, AVR Microcontroller Interfacing
 
       </p>
     ),
